@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1496376939 source:d:\trabajo de codeblock\juegonaves\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	"Nave.h"
+	"Ast.h"
+	"Bala.h"
+	<list>
+	<vector>
+	<stdlib.h>
+
+1496365700 source:d:\trabajo de codeblock\juegonaves\nave.cpp
+	"Nave.h"
+
+1496376939 d:\trabajo de codeblock\juegonaves\nave.h
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+
+1496362119 d:\trabajo de codeblock\juegonaves\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<funciones.h>
+
+1496360972 source:d:\trabajo de codeblock\juegonaves\funciones.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+
+1496360972 d:\trabajo de codeblock\juegonaves\funciones.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+
+1496361098 d:\trabajo de codeblock\juegonaves\funciones.h
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+
+1496367711 source:d:\trabajo de codeblock\juegonaves\ast.cpp
+	"Ast.h"
+
+1496375801 d:\trabajo de codeblock\juegonaves\ast.h
+	<stdio.h>
+	"Nave.h"
+	<stdlib.h>
+
+1496370266 source:d:\trabajo de codeblock\juegonaves\bala.cpp
+	"Bala.h"
+
+1496369199 d:\trabajo de codeblock\juegonaves\bala.h
+	<stdio.h>
+	"Nave.h"
+	<stdlib.h>
+
